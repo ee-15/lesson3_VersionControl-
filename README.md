@@ -5,16 +5,16 @@
 Web Application Development
 
 ## Assignment Date:  
-(Month Day, Year)
+(September 29, 2017)
 
 ## Student Name:  
-(First and Last Name)
+(Elie Emile)
 
 ## Project Description:
-(In your own words, briefly describe the assignment.)
+(This assignment was about version control systems and hows they can be used to manage files. )
 
 ## Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (A local repository stores data local where it is stored.)
+2. (A remote repository saves data on a server based system.)
+3. (Git allows you to back up files and make changes that can be viewed and changed across several paltforms.)
 
